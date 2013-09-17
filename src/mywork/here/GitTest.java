@@ -9,6 +9,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("after initial checking");
+		System.out.println("checking auto build by jenkins");
 	}
 
 }
