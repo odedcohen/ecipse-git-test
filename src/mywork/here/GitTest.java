@@ -11,6 +11,7 @@ public class GitTest {
 		System.out.println("after initial checking");
 		System.out.println("checking auto build by jenkins");
 		System.out.println("checking auto build2 by jenkins");
+		System.out.println("checking auto build3 by jenkins");
 	}
 
 }
