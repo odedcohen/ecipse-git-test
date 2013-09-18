@@ -10,6 +10,7 @@ public class GitTest {
 		System.out.println("Hello World");
 		System.out.println("after initial checking");
 		System.out.println("checking auto build by jenkins");
+		System.out.println("checking auto build2 by jenkins");
 	}
 
 }
